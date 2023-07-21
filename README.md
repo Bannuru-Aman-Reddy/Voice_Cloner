@@ -13,3 +13,13 @@ SV2TTS is a comprehensive deep learning framework consisting of three distinct s
 
 ##### Note: Pretrained models are downloaded automatically. If not, download from [here](https://drive.google.com/drive/folders/19V-29XGl-gZrWay6wV4ehvOhA8NKSqNR?usp=sharing)
 
+## Sample Input and Sample Output
+### Sample Input Voice
+https://github.com/Bannuru-Aman-Reddy/Voice_Cloner/assets/96659682/7ea87bdf-f1ba-4220-9de6-bf2ea92216a1
+### Sample Output Voice
+https://github.com/Bannuru-Aman-Reddy/Voice_Cloner/assets/96659682/2a4dae06-6d7c-4982-8e91-c51d7c322761
+
+
+
+
+
